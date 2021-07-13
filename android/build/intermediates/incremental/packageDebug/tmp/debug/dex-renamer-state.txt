@@ -1,0 +1,4 @@
+#Tue Jun 15 18:57:50 MSK 2021
+base.0=C\:\\Users\\zange\\Desktop\\Ishodnyy kod igrovogo prilozgenya Witch\\witch\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
